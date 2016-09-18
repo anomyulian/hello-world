@@ -1,2 +1,2 @@
 # hello-world
-My first repository
+I follow the goddamn tutorial to make this. So dont disappoint me fam!
